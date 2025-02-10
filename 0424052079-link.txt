@@ -1,6 +1,7 @@
 code link: 
 https://github.com/smahmud0205/metaheuristic_assignment
-input data link: https://github.com/smahmud0205/metaheuristic_assignment/releases/tag/assignment_input_data
+input data link: 
+https://github.com/smahmud0205/metaheuristic_assignment/releases/tag/assignment_input_data
 
 Instruction:
 1. Below two files must be in same directory:
