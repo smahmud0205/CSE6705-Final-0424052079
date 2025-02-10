@@ -13,6 +13,10 @@ Running will start and finally it will create an confusion matrix. This matrix i
 [67880 18
 46    277871]
 
+True Negatives (TN)=67880; Correctly predicted negative samples.
+False Positives (FP)=18; Negative samples incorrectly predicted as positive.
+False Negatives (FN)=46; Positive samples incorrectly predicted as negative.
+True Positives (TP)=277871; Correctly predicted positive samples.
 
 
 
