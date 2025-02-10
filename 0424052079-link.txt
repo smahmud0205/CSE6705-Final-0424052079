@@ -4,9 +4,10 @@ input data link:
 https://github.com/smahmud0205/metaheuristic_assignment/releases/tag/assignment_input_data
 
 Instruction:
-1. Below two files must be in same directory:
+1. Below three files must be in same directory:
   IDSthroughBPSOCustom.py
   kddcup_data_10_percent_final.csv
+  requirements.txt
 2. open cmd in that directory.
 3. run below commands one by one
    pip install -r requirements.txt 
