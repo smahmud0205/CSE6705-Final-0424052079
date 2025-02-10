@@ -8,7 +8,7 @@ Instruction:
   IDSthroughBPSOCustom.py
   kddcup_data_10_percent_final.csv
 2. open cmd in that directory.
-3. run below command 
+3. run below commands one by one
    pip install -r requirements.txt 
    python IDSthroughBPSOCustom.py
 
