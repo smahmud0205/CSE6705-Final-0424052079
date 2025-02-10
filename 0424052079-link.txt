@@ -8,8 +8,10 @@ Instruction:
   IDSthroughBPSOCustom.py
   kddcup_data_10_percent_final.csv
 2. open cmd in that directory.
-3. python IDSthroughBPSOCustom.py
-4. Press Enter key
+3. run below command 
+   pip install -r requirements.txt 
+   python IDSthroughBPSOCustom.py
+
 Running will start and finally it will create an confusion matrix. This matrix is the measurement of intrusion detection capability:
 [67880 18
 46    277871]
