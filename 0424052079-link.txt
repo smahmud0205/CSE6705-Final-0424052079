@@ -9,7 +9,9 @@ Instruction:
 2. open cmd in that directory.
 3. python IDSthroughBPSOCustom.py
 4. Press Enter key
-Running will start and finally it will create an confusion matrix. This matrix is the measurement of 
+Running will start and finally it will create an confusion matrix. This matrix is the measurement of intrusion detection capability:
+[67880 18
+46    277871]
 
 
 
