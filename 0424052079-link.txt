@@ -1,7 +1,7 @@
 Source code link: 
 https://github.com/smahmud0205/CSE6705-Final-0424052079
 input data link: 
-https://github.com/smahmud0205/CSE6705-Final-0424052079/tree/assignment_input_data
+https://github.com/smahmud0205/CSE6705-Final-0424052079/releases/tag/assignment_input_data
 
 Instruction:
 1. Below three files must be in same directory:
