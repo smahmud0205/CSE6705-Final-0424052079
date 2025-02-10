@@ -1,6 +1,6 @@
 Source code link: 
 https://github.com/smahmud0205/CSE6705-Final-0424052079
-input data link: 
+input data file (kddcup_data_10_percent_final.csv) link:
 https://github.com/smahmud0205/CSE6705-Final-0424052079/releases/tag/assignment_input_data
 
 Instruction:
