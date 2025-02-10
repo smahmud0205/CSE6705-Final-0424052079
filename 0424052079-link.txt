@@ -3,4 +3,16 @@ https://github.com/smahmud0205/metaheuristic_assignment
 input data link: https://github.com/smahmud0205/metaheuristic_assignment/releases/tag/assignment_input_data
 
 Instruction:
+1. Below two files must be in same directory:
+  IDSthroughBPSOCustom.py
+  kddcup_data_10_percent_final.csv
+2. open cmd in that directory.
+3. python IDSthroughBPSOCustom.py
+4. Press Enter key
+Running will start and finally it will create an confusion matrix.
+
+
+
+
+
 
