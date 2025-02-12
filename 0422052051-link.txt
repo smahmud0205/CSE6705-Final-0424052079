@@ -1,0 +1,30 @@
+Source code link: 
+https://github.com/smahmud0205/CSE6705-Final-0424052079
+
+input data file (kddcup_data_10_percent_final.csv) link:
+https://github.com/smahmud0205/CSE6705-Final-0424052079/releases/tag/assignment_input_data
+
+N.B: As the github does not support large file (>25 MB) in same code repository directory, 
+I have uploaded it in another directory as per github instruction about larger file.
+
+.pptx and .mp4 presentation link:
+https://drive.google.com/drive/folders/1OEq2ucwSniXJUOeis8LMtIbXwIXJTYoI?usp=sharing
+
+Instruction:
+1. Below three files must be in same directory:
+  IDSthroughBPSOCustom.py
+  kddcup_data_10_percent_final.csv
+  requirements.txt
+2. open cmd in that directory.
+3. run below commands one by one
+   pip install -r requirements.txt 
+   python IDSthroughBPSOCustom.py
+
+Running will start and finally it will create an confusion matrix. This matrix is the measurement of intrusion detection capability:
+[67880 18
+46    277871]
+
+True Negatives (TN)=67880; Correctly predicted negative samples.
+False Positives (FP)=18; Negative samples incorrectly predicted as positive.
+False Negatives (FN)=46; Positive samples incorrectly predicted as negative.
+True Positives (TP)=277871; Correctly predicted positive samples.
