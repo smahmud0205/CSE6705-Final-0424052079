@@ -8,7 +8,8 @@ N.B: As the github does not support large file (>25 MB) in same code repository 
 I have uploaded it in another directory as per github instruction about larger file.
 
 .pptx and .mp4 presentation link:
-https://drive.google.com/drive/folders/1HTc6nOvy90X6d0ONQ_q10eYggMsqH-IP?usp=sharing
+https://drive.google.com/file/d/19rbzworg605J8Lu7HYjgb6_F2YvCQl9K/view?usp=sharing, 
+https://docs.google.com/presentation/d/1mxAgP8XgKGbhuE8bZcPiAIEWsRX6bFX4/edit?usp=sharing&ouid=100340512529507680717&rtpof=true&sd=true
 
 Instruction:
 1. Below three files must be in same directory:
